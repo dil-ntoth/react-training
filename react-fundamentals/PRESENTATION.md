@@ -1,5 +1,6 @@
 # React fundamentals
-_2023_
+[https://github.com/dil-ntoth/react-training](https://github.com/dil-ntoth/react-training)
+
 
 ---
 
@@ -16,11 +17,17 @@ _2023_
 
 ## Rethinking Web app development at Facebook
 
-[![IMAGE_ALT](https://img.youtube.com/vi/nYkdrAPrdcw/0.jpg)](https://www.youtube.com/watch?t=624&v=nYkdrAPrdcw&feature=emb_imp_woyt)
-
 ---
 
 React was created by Jordan Walke, a software engineer at Meta, who released an early prototype of React called "FaxJS". He was influenced by XHP, an HTML component library for PHP. It was first deployed on Facebook's News Feed in 2011 and later on Instagram in 2012. It was open-sourced at JSConf US in May 2013.
+
+---
+
+<img src="/assets/facebook-annotated-chat-ui.png"  height="400">
+
+---
+
+[![IMAGE_ALT](https://img.youtube.com/vi/nYkdrAPrdcw/0.jpg)](https://www.youtube.com/watch?t=624&v=nYkdrAPrdcw&feature=emb_imp_woyt)
 
 ---
 
@@ -1149,3 +1156,4 @@ const [username, setUsername] = React.useState('');
 - [https://react.dev/](https://react.dev/)
 - [https://kentcdodds.com/blog](https://kentcdodds.com/blog)
 - [https://www.joshwcomeau.com/latest/](https://www.joshwcomeau.com/latest/)
+- [Hacker Way: Rethinking Web App Development at Facebook](https://youtu.be/nYkdrAPrdcw)
